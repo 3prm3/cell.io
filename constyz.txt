@@ -1,0 +1,10 @@
+ABCDEFGHIJKLMNOPQRSTU
+VWXYZ0123459789!"#(_)
+abcdefghijklmnopqrstu
+vwxyzZ0123459789!"#(_)
+%^[_]{}<=>\|/@
+layout
+https://yal.cc/r/20/pixelfont/ for conversion
+https://www.pentacom.jp/pentacom/bitfontmaker2/ font template
+maybe upscale letters
+make lowercase
